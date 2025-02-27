@@ -4,7 +4,7 @@ int main() {
 
     //Variaveis
 
-    char Estado1[50], Estado2[50];
+    char Estado1[5], Estado2[5];
     char Codigo1[50], Codigo2[50];
     char Cidade1[50], Cidade2[50];
     int Populacao1, Populacao2;
