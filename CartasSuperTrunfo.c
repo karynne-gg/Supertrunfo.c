@@ -4,7 +4,7 @@ int main() {
 
     //Variaveis
 
-    char Estado1[5], Estado2[5];
+    char Estado1[50], Estado2[50];
     char Codigo1[50], Codigo2[50];
     char Cidade1[50], Cidade2[50];
     unsigned long int Populacao1, Populacao2;
@@ -118,7 +118,7 @@ int main() {
     printf("VAMOS COMPARAR?\n");
 
     printf("Comparação de cartas:\n");
-    
+
     if (Populacao1 > Populacao2) //1
     {
         printf("População: Carta 1 Venceu!\n");
