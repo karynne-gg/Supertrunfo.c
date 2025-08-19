@@ -182,7 +182,6 @@ int main() {
         printf("Superpoder: Carta 2 Venceu!\n");
     }
     
-
     printf("\n");
 
     return 0;
